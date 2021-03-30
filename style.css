@@ -1,0 +1,64 @@
+
+*{
+    font-family: sans-serif;
+}
+div.main{
+    width: 800px;
+    height: 650px;
+    background-color: #1d1e1f;
+margin-left: 270px;
+position: absolute;
+top: 80px;
+left: 30px;
+
+    
+}
+#mm{
+    background-color: #080000;
+    width: 1420px;
+    height: 770px;
+}
+.pic{
+    position: absolute;
+    top: 62px;
+    left: 300px;
+}
+.text{
+    position: absolute;
+    top: 70px;
+    left: 660px;
+    color: white;
+    font-size: 25px;
+    width: 410px;
+}
+#pr{
+    font-size: 15px;
+    margin-top: -10px;
+    color: darkcyan;
+    
+
+}
+#pr2{
+    font-size: 12px;
+     clear: both;
+     line-height: 16px;
+     color: darkgray;
+}
+#hr{
+    margin-top: 30px;
+    color: darkgrey;
+}
+#h{
+    font-size: larger;
+}
+.tb{
+    
+    
+}
+.p2{
+    font-size: 15px;
+}
+.p3{
+    font-size: 13px;
+    color: darkgrey;
+}
